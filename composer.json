@@ -2,7 +2,7 @@
     "name": "pengarwin/pengarwin",
     "license": "MIT",
     "type": "project",
-    "description": "PengarWin package"
+    "description": "PengarWin package",
     "autoload": {
         "psr-0": { "": "src/", "SymfonyStandard": "app/" }
     },
