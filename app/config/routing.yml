@@ -1,0 +1,2 @@
+pengarwin:
+    resource: "@PengarWinPengarWinBundle/Resources/config/routing.yml"
