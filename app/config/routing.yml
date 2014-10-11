@@ -1,2 +1,6 @@
 pengarwin:
     resource: "@PengarWinPengarWinBundle/Resources/config/routing.yml"
+
+_homepage:
+    path:      /
+    defaults:  { _controller: PengarWinPengarWinBundle:Account:index }
