@@ -81,3 +81,6 @@ stof_doctrine_extensions:
             tree: true
             sluggable: true
             timestampable: true
+
+white_october_breadcrumbs:
+    separator: ' » '

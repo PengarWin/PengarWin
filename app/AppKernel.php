@@ -19,6 +19,7 @@ class AppKernel extends Kernel
             new PengarWin\CoreBundle\PengarWinCoreBundle(),
             new PengarWin\DoubleEntryBundle\PengarWinDoubleEntryBundle(),
             new Stof\DoctrineExtensionsBundle\StofDoctrineExtensionsBundle(),
+            new WhiteOctober\BreadcrumbsBundle\WhiteOctoberBreadcrumbsBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {
