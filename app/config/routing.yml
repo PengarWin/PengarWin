@@ -3,4 +3,4 @@ pengarwin:
 
 _homepage:
     path:      /
-    defaults:  { _controller: PengarWinCoreBundle:Account:index }
+    defaults:  { _controller: PengarWinCoreBundle:Default:index }
