@@ -84,3 +84,9 @@ stof_doctrine_extensions:
 
 white_october_breadcrumbs:
     separator: ' » '
+
+
+fos_user:
+    db_driver: orm
+    firewall_name: main
+    user_class: PengarWin\CoreBundle\Entity\User

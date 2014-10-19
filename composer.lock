@@ -614,6 +614,74 @@
             "time": "2014-10-06 13:22:50"
         },
         {
+            "name": "friendsofsymfony/user-bundle",
+            "version": "v2.0.0-alpha1",
+            "target-dir": "FOS/UserBundle",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/FriendsOfSymfony/FOSUserBundle.git",
+                "reference": "5a53273c3ae4e3f128c71522cd8398515718bbb8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSUserBundle/zipball/5a53273c3ae4e3f128c71522cd8398515718bbb8",
+                "reference": "5a53273c3ae4e3f128c71522cd8398515718bbb8",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.2",
+                "symfony/form": "~2.1",
+                "symfony/framework-bundle": "~2.1",
+                "symfony/security-bundle": "~2.1"
+            },
+            "require-dev": {
+                "doctrine/doctrine-bundle": "*",
+                "swiftmailer/swiftmailer": ">=4.3, <6.0",
+                "symfony/validator": "~2.1",
+                "symfony/yaml": "~2.1",
+                "twig/twig": "~1.5",
+                "willdurand/propel-typehintable-behavior": "dev-master"
+            },
+            "suggest": {
+                "willdurand/propel-typehintable-behavior": "Needed when using the propel implementation"
+            },
+            "type": "symfony-bundle",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.0.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-0": {
+                    "FOS\\UserBundle": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Christophe Coevoet",
+                    "email": "stof@notk.org"
+                },
+                {
+                    "name": "FriendsOfSymfony Community",
+                    "homepage": "https://github.com/friendsofsymfony/FOSUserBundle/contributors"
+                },
+                {
+                    "name": "Thibault Duplessis",
+                    "email": "thibault.duplessis@gmail.com"
+                }
+            ],
+            "description": "Symfony FOSUserBundle",
+            "homepage": "http://friendsofsymfony.github.com",
+            "keywords": [
+                "User management"
+            ],
+            "time": "2014-09-26 15:02:08"
+        },
+        {
             "name": "gedmo/doctrine-extensions",
             "version": "v2.3.9",
             "source": {
@@ -948,15 +1016,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/PengarWin/CoreBundle.git",
-                "reference": "e330cb1af2b11160f454f1d34ffc925b2a2d39b8"
+                "reference": "0be2acd309b147097b1b97ea16dd282dd1ac1b0c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PengarWin/CoreBundle/zipball/e330cb1af2b11160f454f1d34ffc925b2a2d39b8",
-                "reference": "e330cb1af2b11160f454f1d34ffc925b2a2d39b8",
+                "url": "https://api.github.com/repos/PengarWin/CoreBundle/zipball/0be2acd309b147097b1b97ea16dd282dd1ac1b0c",
+                "reference": "0be2acd309b147097b1b97ea16dd282dd1ac1b0c",
                 "shasum": ""
             },
             "require": {
+                "friendsofsymfony/user-bundle": "~2.0@dev",
                 "pengarwin/double-entry-bundle": "dev-develop",
                 "php": ">=5.3.0",
                 "whiteoctober/breadcrumbs-bundle": "dev-master"
@@ -971,7 +1040,7 @@
             "license": [
                 "MIT"
             ],
-            "time": "2014-10-18 00:56:50"
+            "time": "2014-10-19 00:56:59"
         },
         {
             "name": "pengarwin/double-entry-bundle",
