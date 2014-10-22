@@ -1016,12 +1016,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/PengarWin/CoreBundle.git",
-                "reference": "0a89f392eb5965ad2e30566d51334e4e626db923"
+                "reference": "979212d551b701c714ced4feb90ba5124733c8a1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PengarWin/CoreBundle/zipball/0a89f392eb5965ad2e30566d51334e4e626db923",
-                "reference": "0a89f392eb5965ad2e30566d51334e4e626db923",
+                "url": "https://api.github.com/repos/PengarWin/CoreBundle/zipball/979212d551b701c714ced4feb90ba5124733c8a1",
+                "reference": "979212d551b701c714ced4feb90ba5124733c8a1",
                 "shasum": ""
             },
             "require": {
@@ -1040,7 +1040,7 @@
             "license": [
                 "MIT"
             ],
-            "time": "2014-10-21 01:55:02"
+            "time": "2014-10-22 19:08:48"
         },
         {
             "name": "pengarwin/double-entry-bundle",
@@ -1049,12 +1049,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/PengarWin/DoubleEntryBundle.git",
-                "reference": "7440fc1d99311fa5a5bb083aac2c58fdbf1d5252"
+                "reference": "72588cf2c774dbd923601aeb7264d31d3582459f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PengarWin/DoubleEntryBundle/zipball/7440fc1d99311fa5a5bb083aac2c58fdbf1d5252",
-                "reference": "7440fc1d99311fa5a5bb083aac2c58fdbf1d5252",
+                "url": "https://api.github.com/repos/PengarWin/DoubleEntryBundle/zipball/72588cf2c774dbd923601aeb7264d31d3582459f",
+                "reference": "72588cf2c774dbd923601aeb7264d31d3582459f",
                 "shasum": ""
             },
             "require": {
@@ -1071,7 +1071,7 @@
             "license": [
                 "MIT"
             ],
-            "time": "2014-10-21 01:57:40"
+            "time": "2014-10-22 19:01:10"
         },
         {
             "name": "psr/log",
