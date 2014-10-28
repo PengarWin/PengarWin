@@ -29,6 +29,9 @@ twig:
     debug:            "%kernel.debug%"
     strict_variables: "%kernel.debug%"
 
+    globals:
+        organization_handler: "@pengarwin.organization_handler"
+
 # Assetic Configuration
 assetic:
     debug:          "%kernel.debug%"
