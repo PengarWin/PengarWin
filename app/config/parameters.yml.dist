@@ -19,3 +19,8 @@ parameters:
     debug_toolbar:          true
     debug_redirects:        false
     use_assetic_controller: true
+    pengarwin.account.class:              \PengarWin\CoreBundle\Entity\Account
+    pengarwin.vendor.class:               \PengarWin\CoreBundle\Entity\Vendor
+    pengarwin.organization.class:         \PengarWin\CoreBundle\Entity\Organization
+    pengarwin.journal.class:              \PengarWin\CoreBundle\Entity\Journal
+    pengarwin.posting.class:              \PengarWin\CoreBundle\Entity\Posting
