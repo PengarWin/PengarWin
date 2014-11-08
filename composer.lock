@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "de981eb0235b39d626bd28f3639bf921",
+    "hash": "f8a2fc9b000e0ef70e30c3cd521b8240",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -1011,22 +1011,22 @@
         },
         {
             "name": "pengarwin/core-bundle",
-            "version": "dev-develop",
+            "version": "v0.8.0",
             "target-dir": "PengarWin/CoreBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PengarWin/CoreBundle.git",
-                "reference": "ee0b8d30f0390c53964ae2a11426d6845e9b33ba"
+                "reference": "a2fee7ab5cbc94f01217b1959e919bc1a5061d60"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PengarWin/CoreBundle/zipball/ee0b8d30f0390c53964ae2a11426d6845e9b33ba",
-                "reference": "ee0b8d30f0390c53964ae2a11426d6845e9b33ba",
+                "url": "https://api.github.com/repos/PengarWin/CoreBundle/zipball/a2fee7ab5cbc94f01217b1959e919bc1a5061d60",
+                "reference": "a2fee7ab5cbc94f01217b1959e919bc1a5061d60",
                 "shasum": ""
             },
             "require": {
                 "friendsofsymfony/user-bundle": "~2.0@dev",
-                "pengarwin/double-entry-bundle": "dev-develop",
+                "pengarwin/double-entry-bundle": "~0.8",
                 "php": ">=5.3.0",
                 "whiteoctober/breadcrumbs-bundle": "dev-master"
             },
@@ -1040,21 +1040,21 @@
             "license": [
                 "MIT"
             ],
-            "time": "2014-11-06 02:20:20"
+            "time": "2014-11-08 03:21:42"
         },
         {
             "name": "pengarwin/double-entry-bundle",
-            "version": "dev-develop",
+            "version": "v0.8.0",
             "target-dir": "PengarWin/DoubleEntryBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PengarWin/DoubleEntryBundle.git",
-                "reference": "cf6f7354c65d4b9cde9b00339e6a0baab2e01903"
+                "reference": "548dd0c901ae76ef6976ce49e65cdeae950b2359"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PengarWin/DoubleEntryBundle/zipball/cf6f7354c65d4b9cde9b00339e6a0baab2e01903",
-                "reference": "cf6f7354c65d4b9cde9b00339e6a0baab2e01903",
+                "url": "https://api.github.com/repos/PengarWin/DoubleEntryBundle/zipball/548dd0c901ae76ef6976ce49e65cdeae950b2359",
+                "reference": "548dd0c901ae76ef6976ce49e65cdeae950b2359",
                 "shasum": ""
             },
             "require": {
@@ -1071,7 +1071,7 @@
             "license": [
                 "MIT"
             ],
-            "time": "2014-11-06 02:22:59"
+            "time": "2014-11-08 02:23:28"
         },
         {
             "name": "psr/log",
@@ -1877,7 +1877,6 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "pengarwin/core-bundle": 20,
         "whiteoctober/breadcrumbs-bundle": 20
     },
     "prefer-stable": true,
