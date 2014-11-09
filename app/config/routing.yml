@@ -1,9 +1,9 @@
-pengarwin:
-    resource: "@PengarWinCoreBundle/Resources/config/routing.yml"
+phospr:
+    resource: "@PhosprCoreBundle/Resources/config/routing.yml"
 
 fos_user:
     resource: "@FOSUserBundle/Resources/config/routing/all.xml"
 
 _homepage:
     path:      /
-    defaults:  { _controller: PengarWinCoreBundle:Default:index }
+    defaults:  { _controller: PhosprCoreBundle:Default:index }

@@ -1,8 +1,8 @@
 {
-    "name": "pengarwin/pengarwin",
+    "name": "phospr/phospr",
     "license": "MIT",
     "type": "project",
-    "description": "PengarWin package",
+    "description": "Phospr package",
     "autoload": {
         "psr-0": { "": "src/", "SymfonyStandard": "app/" }
     },
@@ -20,7 +20,7 @@
         "sensio/distribution-bundle": "~3.0",
         "sensio/framework-extra-bundle": "~3.0",
         "incenteev/composer-parameter-handler": "~2.0",
-        "pengarwin/core-bundle": "~0.8",
+        "phospr/core-bundle": "~0.8",
         "whiteoctober/breadcrumbs-bundle": "dev-master"
     },
     "require-dev": {

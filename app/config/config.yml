@@ -30,14 +30,14 @@ twig:
     strict_variables: "%kernel.debug%"
 
     globals:
-        organization_handler: "@pengarwin.organization_handler"
+        organization_handler: "@phospr.organization_handler"
 
 # Assetic Configuration
 assetic:
     debug:          "%kernel.debug%"
     use_controller: false
     bundles:
-        - PengarWinCoreBundle
+        - PhosprCoreBundle
     #java: /usr/bin/java
     filters:
         cssrewrite: ~
@@ -92,4 +92,4 @@ white_october_breadcrumbs:
 fos_user:
     db_driver: orm
     firewall_name: main
-    user_class: PengarWin\CoreBundle\Entity\User
+    user_class: Phospr\CoreBundle\Entity\User

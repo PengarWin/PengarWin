@@ -19,8 +19,8 @@ parameters:
     debug_toolbar:          true
     debug_redirects:        false
     use_assetic_controller: true
-    pengarwin.account.class:              \PengarWin\CoreBundle\Entity\Account
-    pengarwin.vendor.class:               \PengarWin\CoreBundle\Entity\Vendor
-    pengarwin.organization.class:         \PengarWin\CoreBundle\Entity\Organization
-    pengarwin.journal.class:              \PengarWin\CoreBundle\Entity\Journal
-    pengarwin.posting.class:              \PengarWin\CoreBundle\Entity\Posting
+    phospr.account.class:              \Phospr\CoreBundle\Entity\Account
+    phospr.vendor.class:               \Phospr\CoreBundle\Entity\Vendor
+    phospr.organization.class:         \Phospr\CoreBundle\Entity\Organization
+    phospr.journal.class:              \Phospr\CoreBundle\Entity\Journal
+    phospr.posting.class:              \Phospr\CoreBundle\Entity\Posting

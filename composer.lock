@@ -1010,30 +1010,30 @@
             "time": "2014-09-30 13:30:58"
         },
         {
-            "name": "pengarwin/core-bundle",
+            "name": "phospr/core-bundle",
             "version": "v0.8.0",
-            "target-dir": "PengarWin/CoreBundle",
+            "target-dir": "Phospr/CoreBundle",
             "source": {
                 "type": "git",
-                "url": "https://github.com/PengarWin/CoreBundle.git",
+                "url": "https://github.com/Phospr/CoreBundle.git",
                 "reference": "a2fee7ab5cbc94f01217b1959e919bc1a5061d60"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PengarWin/CoreBundle/zipball/a2fee7ab5cbc94f01217b1959e919bc1a5061d60",
+                "url": "https://api.github.com/repos/Phospr/CoreBundle/zipball/a2fee7ab5cbc94f01217b1959e919bc1a5061d60",
                 "reference": "a2fee7ab5cbc94f01217b1959e919bc1a5061d60",
                 "shasum": ""
             },
             "require": {
                 "friendsofsymfony/user-bundle": "~2.0@dev",
-                "pengarwin/double-entry-bundle": "~0.8",
+                "phospr/double-entry-bundle": "~0.8",
                 "php": ">=5.3.0",
                 "whiteoctober/breadcrumbs-bundle": "dev-master"
             },
             "type": "library",
             "autoload": {
                 "psr-0": {
-                    "PengarWin\\CoreBundle": ""
+                    "Phospr\\CoreBundle": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -1043,17 +1043,17 @@
             "time": "2014-11-08 03:21:42"
         },
         {
-            "name": "pengarwin/double-entry-bundle",
+            "name": "phospr/double-entry-bundle",
             "version": "v0.8.0",
-            "target-dir": "PengarWin/DoubleEntryBundle",
+            "target-dir": "Phospr/DoubleEntryBundle",
             "source": {
                 "type": "git",
-                "url": "https://github.com/PengarWin/DoubleEntryBundle.git",
+                "url": "https://github.com/Phospr/DoubleEntryBundle.git",
                 "reference": "548dd0c901ae76ef6976ce49e65cdeae950b2359"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PengarWin/DoubleEntryBundle/zipball/548dd0c901ae76ef6976ce49e65cdeae950b2359",
+                "url": "https://api.github.com/repos/Phospr/DoubleEntryBundle/zipball/548dd0c901ae76ef6976ce49e65cdeae950b2359",
                 "reference": "548dd0c901ae76ef6976ce49e65cdeae950b2359",
                 "shasum": ""
             },
@@ -1064,7 +1064,7 @@
             "type": "library",
             "autoload": {
                 "psr-0": {
-                    "PengarWin\\DoubleEntryBundle": ""
+                    "Phospr\\DoubleEntryBundle": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
