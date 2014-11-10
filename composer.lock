@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "f8a2fc9b000e0ef70e30c3cd521b8240",
+    "hash": "100fb64baf242ac613be7fccdae9f8c6",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -1011,22 +1011,22 @@
         },
         {
             "name": "phospr/core-bundle",
-            "version": "v0.8.0",
+            "version": "v0.9.0",
             "target-dir": "Phospr/CoreBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Phospr/CoreBundle.git",
-                "reference": "a2fee7ab5cbc94f01217b1959e919bc1a5061d60"
+                "reference": "7356840911ef7d4f2008b8c6e6197e413049fd8f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Phospr/CoreBundle/zipball/a2fee7ab5cbc94f01217b1959e919bc1a5061d60",
-                "reference": "a2fee7ab5cbc94f01217b1959e919bc1a5061d60",
+                "url": "https://api.github.com/repos/Phospr/CoreBundle/zipball/7356840911ef7d4f2008b8c6e6197e413049fd8f",
+                "reference": "7356840911ef7d4f2008b8c6e6197e413049fd8f",
                 "shasum": ""
             },
             "require": {
                 "friendsofsymfony/user-bundle": "~2.0@dev",
-                "phospr/double-entry-bundle": "~0.8",
+                "phospr/double-entry-bundle": "~0.9",
                 "php": ">=5.3.0",
                 "whiteoctober/breadcrumbs-bundle": "dev-master"
             },
@@ -1040,21 +1040,21 @@
             "license": [
                 "MIT"
             ],
-            "time": "2014-11-08 03:21:42"
+            "time": "2014-11-09 01:55:08"
         },
         {
             "name": "phospr/double-entry-bundle",
-            "version": "v0.8.0",
+            "version": "v0.9.0",
             "target-dir": "Phospr/DoubleEntryBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Phospr/DoubleEntryBundle.git",
-                "reference": "548dd0c901ae76ef6976ce49e65cdeae950b2359"
+                "reference": "dac6168c8c8e849e8c3aa8d9f6a6122f1cc04657"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Phospr/DoubleEntryBundle/zipball/548dd0c901ae76ef6976ce49e65cdeae950b2359",
-                "reference": "548dd0c901ae76ef6976ce49e65cdeae950b2359",
+                "url": "https://api.github.com/repos/Phospr/DoubleEntryBundle/zipball/dac6168c8c8e849e8c3aa8d9f6a6122f1cc04657",
+                "reference": "dac6168c8c8e849e8c3aa8d9f6a6122f1cc04657",
                 "shasum": ""
             },
             "require": {
@@ -1071,7 +1071,7 @@
             "license": [
                 "MIT"
             ],
-            "time": "2014-11-08 02:23:28"
+            "time": "2014-11-09 01:31:20"
         },
         {
             "name": "psr/log",
