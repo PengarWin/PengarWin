@@ -1011,17 +1011,17 @@
         },
         {
             "name": "phospr/core-bundle",
-            "version": "v0.9.0",
+            "version": "v0.9.1",
             "target-dir": "Phospr/CoreBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Phospr/CoreBundle.git",
-                "reference": "7356840911ef7d4f2008b8c6e6197e413049fd8f"
+                "reference": "f5f28e4324f45c1d51aed24e5f34c6a42fd126af"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Phospr/CoreBundle/zipball/7356840911ef7d4f2008b8c6e6197e413049fd8f",
-                "reference": "7356840911ef7d4f2008b8c6e6197e413049fd8f",
+                "url": "https://api.github.com/repos/Phospr/CoreBundle/zipball/f5f28e4324f45c1d51aed24e5f34c6a42fd126af",
+                "reference": "f5f28e4324f45c1d51aed24e5f34c6a42fd126af",
                 "shasum": ""
             },
             "require": {
@@ -1040,7 +1040,7 @@
             "license": [
                 "MIT"
             ],
-            "time": "2014-11-09 01:55:08"
+            "time": "2014-11-10 03:49:13"
         },
         {
             "name": "phospr/double-entry-bundle",
