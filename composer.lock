@@ -1011,17 +1011,17 @@
         },
         {
             "name": "phospr/core-bundle",
-            "version": "v0.9.1",
+            "version": "v0.9.2",
             "target-dir": "Phospr/CoreBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Phospr/CoreBundle.git",
-                "reference": "f5f28e4324f45c1d51aed24e5f34c6a42fd126af"
+                "reference": "3c2a32d3e8e7085ff2c8e53bb1a28dbb6e1f785f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Phospr/CoreBundle/zipball/f5f28e4324f45c1d51aed24e5f34c6a42fd126af",
-                "reference": "f5f28e4324f45c1d51aed24e5f34c6a42fd126af",
+                "url": "https://api.github.com/repos/Phospr/CoreBundle/zipball/3c2a32d3e8e7085ff2c8e53bb1a28dbb6e1f785f",
+                "reference": "3c2a32d3e8e7085ff2c8e53bb1a28dbb6e1f785f",
                 "shasum": ""
             },
             "require": {
@@ -1040,21 +1040,21 @@
             "license": [
                 "MIT"
             ],
-            "time": "2014-11-10 03:49:13"
+            "time": "2014-11-11 03:07:02"
         },
         {
             "name": "phospr/double-entry-bundle",
-            "version": "v0.9.0",
+            "version": "v0.9.1",
             "target-dir": "Phospr/DoubleEntryBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Phospr/DoubleEntryBundle.git",
-                "reference": "dac6168c8c8e849e8c3aa8d9f6a6122f1cc04657"
+                "reference": "95dd2709f8e7b21d671c1a8014f7acb3c1487fc9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Phospr/DoubleEntryBundle/zipball/dac6168c8c8e849e8c3aa8d9f6a6122f1cc04657",
-                "reference": "dac6168c8c8e849e8c3aa8d9f6a6122f1cc04657",
+                "url": "https://api.github.com/repos/Phospr/DoubleEntryBundle/zipball/95dd2709f8e7b21d671c1a8014f7acb3c1487fc9",
+                "reference": "95dd2709f8e7b21d671c1a8014f7acb3c1487fc9",
                 "shasum": ""
             },
             "require": {
@@ -1071,7 +1071,7 @@
             "license": [
                 "MIT"
             ],
-            "time": "2014-11-09 01:31:20"
+            "time": "2014-11-11 02:30:45"
         },
         {
             "name": "psr/log",
@@ -1166,17 +1166,17 @@
         },
         {
             "name": "sensio/framework-extra-bundle",
-            "version": "v3.0.2",
+            "version": "v3.0.3",
             "target-dir": "Sensio/Bundle/FrameworkExtraBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sensiolabs/SensioFrameworkExtraBundle.git",
-                "reference": "9b22aaee517e80aad3238ea0328458b6f964066f"
+                "reference": "b829a8097a41ccbd7d35683b1750043b23d682f5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sensiolabs/SensioFrameworkExtraBundle/zipball/9b22aaee517e80aad3238ea0328458b6f964066f",
-                "reference": "9b22aaee517e80aad3238ea0328458b6f964066f",
+                "url": "https://api.github.com/repos/sensiolabs/SensioFrameworkExtraBundle/zipball/b829a8097a41ccbd7d35683b1750043b23d682f5",
+                "reference": "b829a8097a41ccbd7d35683b1750043b23d682f5",
                 "shasum": ""
             },
             "require": {
@@ -1217,7 +1217,7 @@
                 "annotations",
                 "controllers"
             ],
-            "time": "2014-09-02 07:11:30"
+            "time": "2014-11-10 14:50:31"
         },
         {
             "name": "sensiolabs/security-checker",
