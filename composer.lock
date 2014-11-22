@@ -1316,17 +1316,17 @@
         },
         {
             "name": "phospr/core-bundle",
-            "version": "v0.10.0",
+            "version": "v0.11.0",
             "target-dir": "Phospr/CoreBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Phospr/CoreBundle.git",
-                "reference": "d9f9f05ce5c56c1c30e374ec0501219ba76620a3"
+                "reference": "adfb4485295d1cfb27329f18bca0fe1e80676974"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Phospr/CoreBundle/zipball/d9f9f05ce5c56c1c30e374ec0501219ba76620a3",
-                "reference": "d9f9f05ce5c56c1c30e374ec0501219ba76620a3",
+                "url": "https://api.github.com/repos/Phospr/CoreBundle/zipball/adfb4485295d1cfb27329f18bca0fe1e80676974",
+                "reference": "adfb4485295d1cfb27329f18bca0fe1e80676974",
                 "shasum": ""
             },
             "require": {
@@ -1346,21 +1346,21 @@
             "license": [
                 "MIT"
             ],
-            "time": "2014-11-22 14:39:08"
+            "time": "2014-11-22 20:09:49"
         },
         {
             "name": "phospr/double-entry-bundle",
-            "version": "v0.10.0",
+            "version": "v0.11.0",
             "target-dir": "Phospr/DoubleEntryBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Phospr/DoubleEntryBundle.git",
-                "reference": "2be6e36411cb8328d93d1a108319b58f12e980d2"
+                "reference": "d9c421f30922b461483731983c59beb26047fb7f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Phospr/DoubleEntryBundle/zipball/2be6e36411cb8328d93d1a108319b58f12e980d2",
-                "reference": "2be6e36411cb8328d93d1a108319b58f12e980d2",
+                "url": "https://api.github.com/repos/Phospr/DoubleEntryBundle/zipball/d9c421f30922b461483731983c59beb26047fb7f",
+                "reference": "d9c421f30922b461483731983c59beb26047fb7f",
                 "shasum": ""
             },
             "require": {
@@ -1378,7 +1378,7 @@
             "license": [
                 "MIT"
             ],
-            "time": "2014-11-22 14:42:07"
+            "time": "2014-11-22 20:07:00"
         },
         {
             "name": "phpcollection/phpcollection",
